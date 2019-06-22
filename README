@@ -1,0 +1,25 @@
+Implementação de Conceitos de Análise Real em Linguagem C
+=========================================================
+
+1. Aluno
+--------
+
+Daniel Sakuma
+N USP: 5619562
+
+
+2. Conteúdo do diretório
+------------------------
+
+.
+|-- cauchy_series
+|-- contagem_inteiros
+|-- contagem_inteiros_gmp
+|-- continuidade_reais
+|-- new_riemann
+|-- sequences1
+|-- sequences1
+|-- sequences1
+|-- sequences1
+`-- README
+
